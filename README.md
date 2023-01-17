@@ -3,7 +3,9 @@
 # [`repo_name`][repo-url]
 
 <!-- SHIELDS -->
-
+[![Status][shield-abandoned]][repo-url]
+[![Status][shield-finished]][repo-url]
+[![Status][shield-in-progress]][repo-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -204,6 +206,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- project shield links -->
 
+[shield-abandoned]: https://img.shields.io/badge/status-abandoned-red?style=for-the-badge
+[shield-finished]: https://img.shields.io/badge/status-finished-informational?style=for-the-badge
+[shield-in-progress]: https://img.shields.io/badge/status-in--progress-success?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge

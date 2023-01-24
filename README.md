@@ -2,17 +2,18 @@
 
 # [`repo_name`][repo-url]
 
-<!-- SHIELDS -->
+<!-- shields -->
+
 [![AGPLv3.0 License][license-shield]][license-url]
-[![Status][shield-abandoned]][repo-url]
-[![Status][shield-finished]][repo-url]
-[![Status][shield-in-progress]][repo-url]
+[![Status][status-abandoned-shield]][repo-url]
+[![Status][status-finished-shield]][repo-url]
+[![Status][status-in-progress-shield]][repo-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<!-- ABOUT THE PROJECT -->
+<!-- description -->
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: 
 * `repo_name`
@@ -59,7 +60,7 @@ Web stuff:
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
-<!-- USAGE EXAMPLES -->
+<!-- usage -->
 
 ## Usage
 
@@ -69,7 +70,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
-<!-- GETTING STARTED -->
+<!-- getting started -->
 
 ## Getting Started
 
@@ -103,7 +104,7 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- acknowledgments -->
 
 ## Acknowledgments
 
@@ -114,21 +115,24 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
-<!-- internal links -->
+<!-- relative links -->
 
 [product-screenshot]: ./images/screenshot.png
 [license]: ./LICENSE
 
-<!-- external links -->
+<!-- project links -->
 
 [repo-url]: https://shishifubing/repo_name
-[readme-template-url]: https://github.com/othneildrew/Best-README-Template
-[shields-url]: https://shields.io
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-url]: https://github.com/shishifubing/repo_name/network/members
 [stars-url]: https://github.com/shishifubing/repo_name/stargazers
 [issues-url]: https://github.com/shishifubing/repo_name/issues
-[license-url]: https://github.com/shishifubing/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/shishifubing/repo_name/blob/main/LICENSE
+
+<!-- external links -->
+
+[readme-template-url]: https://github.com/othneildrew/Best-README-Template
+[shields-url]: https://shields.io
 [golang-url]: https://go.dev
 [javascript-url]: https://www.javascript.com
 [next-url]: https://nextjs.org
@@ -154,9 +158,9 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- project shield links -->
 
-[shield-abandoned]: https://img.shields.io/badge/status-abandoned-red?style=for-the-badge
-[shield-finished]: https://img.shields.io/badge/status-finished-informational?style=for-the-badge
-[shield-in-progress]: https://img.shields.io/badge/status-in--progress-success?style=for-the-badge
+[status-abandoned-shield]: https://img.shields.io/badge/status-abandoned-red?style=for-the-badge
+[status-finished-shield]: https://img.shields.io/badge/status-finished-informational?style=for-the-badge
+[status-in-progress-shield]: https://img.shields.io/badge/status-in--progress-success?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/shishifubing/repo_name.svg?style=for-the-badge
 [forks-shield]: https://img.shields.io/github/forks/shishifubing/repo_name.svg?style=for-the-badge
 [stars-shield]: https://img.shields.io/github/stars/shishifubing/repo_name.svg?style=for-the-badge

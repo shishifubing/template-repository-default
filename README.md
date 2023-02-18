@@ -2,12 +2,12 @@
 
 # [`repo_name`][url-repo]
 
-[![Contributors][contributors-shield]][url-contributors]
-[![Forks][forks-shield]][url-forks]
-[![Stargazers][stars-shield]][url-stars]
-[![Issues][issues-shield]][url-issues]
-[![AGPLv3.0 License][license-shield]][url-license]
-[![LinkedIn][linkedin-shield]][url-linkedin]
+[![Contributors][shield-contributors]][url-contributors]
+[![Forks][shield-forks]][url-forks]
+[![Stargazers][shield-stars]][url-stars]
+[![Issues][shield-issues]][url-issues]
+[![License][shield-license]][url-license]
+[![LinkedIn][shield-linkedin]][url-linkedin]
 
 Short summary of the project
 
@@ -19,9 +19,9 @@ Long description of the project
 
 [![Product Name Screenshot][product-screenshot]](https://example.com)
 
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following:
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: 
-* `repo_name`
+- `repo_name`
 
 ### Features
 

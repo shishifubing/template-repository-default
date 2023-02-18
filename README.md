@@ -138,8 +138,8 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 ## Acknowledgments
 
-- [Img Shields][shields-url]
-- [Best-README-Template][readme-template-url]
+- [Img Shields][url-shields]
+- [Best-README-Template][url-readme-template]
 - entry
 - entry
 

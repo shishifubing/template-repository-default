@@ -1,77 +1,78 @@
-<a name="readme-top"></a>
+<div align="center" markdown="1">
 
-# [`repo_name`][repo-url]
+# [`repo_name`][url-repo]
 
-<!-- SHIELDS -->
+[![Contributors][contributors-shield]][url-contributors]
+[![Forks][forks-shield]][url-forks]
+[![Stargazers][stars-shield]][url-stars]
+[![Issues][issues-shield]][url-issues]
+[![AGPLv3.0 License][license-shield]][url-license]
+[![LinkedIn][linkedin-shield]][url-linkedin]
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![AGPLv3.0 License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+Short summary of the project
 
-<!-- ABOUT THE PROJECT -->
+</div>
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Long description of the project
+
+[![Product Name Screenshot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
-This is basically a [best-readme-template] without the header and with some tweaks and added shields
+### Features
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Key features of the project
+
+- feature 1
+- feature 2
+- feature 3
+  - subfeature 1
+  - subfeature 2
+- feature 4
 
 ### Built With
 
-For more icons go to [simpleicons-url]
+More icons can be found at [url-simpleicons]
 
 Tools:
 
-- [![Golang][golang-shield]][golang-url]
-- [![Javascript][javascript-shield]][javascript-url]
-- [![Java][java-shield]][java-url]
-- [![Python][python-shield]][python-url]
-- [![Terraform][terraform-shield]][terraform-url]
-- [![C++][cpp-shield]][cpp-url]
-- [![Qt][qt-shield]][qt-url]
+- [![Golang][shield-golang]][url-golang]
+- [![Javascript][shield-javascript]][url-javascript]
+- [![Java][shield-java]][url-java]
+- [![Python][shield-python]][url-python]
+- [![Terraform][shield-terraform]][url-terraform]
+- [![C++][shield-cpp]][url-cpp]
+- [![Qt][shield-qt]][url-qt]
 
 Data:
 
-- [![Postgresql][postgresql-shield]][postgresql-url]
-- [![Redis][redis-shield]][redis-url]
+- [![Postgresql][shield-postgresql]][url-postgresql]
+- [![Redis][shield-redis]][url-redis]
 
 Python frameworks:
 
-- [![Django][django-shield]][django-url]
+- [![Django][shield-django]][url-django]
 
 Web stuff:
 
-- [![HTML5][html5-shield]][html5-url]
-- [![CSS3][css3-shield]][css3-url]
-- [![Next][next.js-shield]][next-url]
-- [![React][react.js-shield]][react-url]
-- [![Vue][vue.js-shield]][vue-url]
-- [![Angular][angular.io-shield]][angular-url]
-- [![Svelte][svelte.dev-shield]][svelte-url]
-- [![Laravel][laravel.com-shield]][laravel-url]
-- [![Bootstrap][bootstrap.com-shield]][bootstrap-url]
-- [![JQuery][jquery.com-shield]][jquery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
+- [![HTML5][shield-html5]][url-html5]
+- [![CSS3][shield-css3]][url-css3]
+- [![Next][shield-next.js]][url-next]
+- [![React][shield-react.js]][url-react]
+- [![Vue][shield-vue.js]][url-vue]
+- [![Angular][shield-angular.io]][url-angular]
+- [![Svelte][shield-svelte.dev]][url-svelte]
+- [![Laravel][shield-laravel.com]][url-laravel]
+- [![Bootstrap][shield-bootstrap.com]][url-bootstrap]
+- [![JQuery][shield-jquery.com]][url-jquery]
 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## Getting Started
 
@@ -103,22 +104,14 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = "ENTER YOUR API";
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
 ## Roadmap
 
-- [ ] Feature 1
+- [x] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
   - [ ] Nested Feature
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## Contributing
 
@@ -133,27 +126,13 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
 ## License
 
 Distributed under the GNU Affero General Public License v3.0. See [LICENSE] for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
 ## Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
@@ -162,74 +141,75 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 - entry
 - entry
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- relative links -->
 
-<!-- internal links -->
+[product-screenshot]: ./images/screenshot.png
+[license]: ./LICENSE
 
-[product-screenshot]: /images/screenshot.png
-[license]: /LICENSE
+<!-- project links -->
+
+[url-repo]: https://github_username/repo_name
+[url-contributors]: https://github.com/github_username/repo_name/graphs/contributors
+[url-forks]: https://github.com/github_username/repo_name/network/members
+[url-stars]: https://github.com/github_username/repo_name/stargazers
+[url-issues]: https://github.com/github_username/repo_name/issues
+[url-license]: https://github.com/github_username/repo_name/blob/main/LICENSE
 
 <!-- external links -->
 
-[repo-url]: https://github_username/repo_name
-[readme-template-url]: https://github.com/othneildrew/Best-README-Template
-[shields-url]: https://shields.io
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[golang-url]: https://go.dev
-[javascript-url]: https://www.javascript.com
-[next-url]: https://nextjs.org
-[react-url]: https://reactjs.org
-[vue-url]: https://vuejs.org
-[angular-url]: https://angular.io
-[svelte-url]: https://svelte.dev
-[laravel-url]: https://laravel.com
-[bootstrap-url]: https://getbootstrap.com
-[jquery-url]: https://jquery.com
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[simpleicons-url]: https://simpleicons.org
-[java-url]: https://www.java.com
-[python-url]: https://www.python.org
-[html5-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
-[css3-url]: https://en.wikipedia.org/wiki/CSS
-[terraform-url]: https://www.terraform.io
-[django-url]: https://www.djangoproject.com
-[cpp-url]: https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170
-[qt-url]: https://www.qt.io/product/framework
-[redis-url]: https://redis.io
-[postgresql-url]: https://www.postgresql.org
+[url-readme-template]: https://github.com/othneildrew/Best-README-Template
+[url-shields]: https://shields.io
+[url-golang]: https://go.dev
+[url-javascript]: https://www.javascript.com
+[url-next]: https://nextjs.org
+[url-react]: https://reactjs.org
+[url-vue]: https://vuejs.org
+[url-angular]: https://angular.io
+[url-svelte]: https://svelte.dev
+[url-laravel]: https://laravel.com
+[url-bootstrap]: https://getbootstrap.com
+[url-jquery]: https://jquery.com
+[url-linkedin]: https://linkedin.com/in/linkedin_username
+[url-simpleicons]: https://simpleicons.org
+[url-java]: https://www.java.com
+[url-python]: https://www.python.org
+[url-html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[url-css3]: https://en.wikipedia.org/wiki/CSS
+[url-terraform]: https://www.terraform.io
+[url-django]: https://www.djangoproject.com
+[url-cpp]: https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170
+[url-qt]: https://www.qt.io/product/framework
+[url-redis]: https://redis.io
+[url-postgresql]: https://www.postgresql.org
 
 <!-- project shield links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[shield-contributors]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[shield-forks]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[shield-stars]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[shield-issues]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[shield-license]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[shield-linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 <!-- other shield links -->
 
-[golang-shield]: https://img.shields.io/badge/go-black?style=for-the-badge&logo=go&logoColor=#00ADD8
-[javascript-shield]: https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[java-shield]: https://img.shields.io/badge/java-black?style=for-the-badge&logo=oracle&logoColor=F80000
-[python-shield]: https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3776AB
-[cpp-shield]: https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C
-[qt-shield]: https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt&logoColor=00599C
-[redis-shield]: https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=DC382D
-[postgresql-shield]: https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=4169E1
-[django-shield]: https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=092E20
-[terraform-shield]: https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform&logoColor=7B42BC
-[html5-shield]: https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=E34F26
-[css3-shield]: https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=1572B6
-[next.js-shield]: https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white
-[react.js-shield]: https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB
-[vue.js-shield]: https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[angular.io-shield]: https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white
-[svelte.dev-shield]: https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[laravel.com-shield]: https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel&logoColor=white
-[bootstrap.com-shield]: https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white
-[jquery.com-shield]: https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=white
+[shield-golang]: https://img.shields.io/badge/go-black?style=for-the-badge&logo=go&logoColor=#00ADD8
+[shield-javascript]: https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[shield-java]: https://img.shields.io/badge/java-black?style=for-the-badge&logo=oracle&logoColor=F80000
+[shield-python]: https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3776AB
+[shield-cpp]: https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C
+[shield-qt]: https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt&logoColor=00599C
+[shield-redis]: https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=DC382D
+[shield-postgresql]: https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=4169E1
+[shield-django]: https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=092E20
+[shield-terraform]: https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform&logoColor=7B42BC
+[shield-html5]: https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=E34F26
+[shield-css3]: https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=1572B6
+[shield-next.js]: https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white
+[shield-react.js]: https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB
+[shield-vue.js]: https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[shield-angular.io]: https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white
+[shield-svelte.dev]: https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[shield-laravel.com]: https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel&logoColor=white
+[shield-bootstrap.com]: https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white
+[shield-jquery.com]: https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=white

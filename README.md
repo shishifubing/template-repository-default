@@ -7,33 +7,41 @@
 [![Stargazers][shield-stars]][url-stars]
 [![Issues][shield-issues]][url-issues]
 [![License][shield-license]][url-license]
-[![LinkedIn][shield-linkedin]][url-linkedin]
 [![Conventional Commits][shield-conventionalcommits]][url-conventionalcommits]
 
-Short summary of the project
+[![Bugs][url-sonar-bugs]][url-sonar]
+[![Code Smells][url-sonar-code_smells]][url-sonar]
+[![Coverage][url-sonar-coverage]][url-sonar]
+[![Duplicated Lines (%)][url-sonar-duplicated_lines_density]][url-sonar]
+[![Lines of Code][url-sonar-ncloc]][url-sonar]
+[![Maintainability Rating][url-sonar-sqale_rating]][url-sonar]
+[![Quality Gate Status][url-sonar-alert_status]][url-sonar]
+[![Reliability Rating][url-sonar-reliability_rating]][url-sonar]
+[![Security Rating][url-sonar-security_rating]][url-sonar]
+[![Technical Debt][url-sonar-sqale_index]][url-sonar]
+[![Vulnerabilities][url-sonar-vulnerabilities]][url-sonar]
+
+Default template for [shishifubing][url-owner] repositories
 
 </div>
 
 ## About The Project
 
-Long description of the project
-
-[![Product Name Screenshot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following:
-
-- `repo_name`
+This is boilerplate for my repositories
 
 ### Features
 
-Key features of the project
-
-- feature 1
-- feature 2
-- feature 3
-  - subfeature 1
-  - subfeature 2
+- 
+- Readme
+  - Badges
+  - Shields
 - feature 4
+
+### Contents
+
+- [.gitignore] - [gitignore for python](https://github.com/github/gitignore/blob/main/Python.gitignore)
+- [LICENSE][url-license] - GNU Affero General Public License v3.0
+- [README] - readme
 
 ### Built With
 
@@ -135,28 +143,46 @@ Distributed under the GNU Affero General Public License v3.0. See [LICENSE] for 
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+<table>
+<tbody>
+  <tr>
+    <td>Twitter</td>
+    <td><a href="https://twitter.com/shishifubing">@shishifubing</a></td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td><a href="mailto:shishifubing@gmail.com">shishifubing@gmail.com</a></td>
+  </tr>
+</tbody>
+</table>
 
 ## Acknowledgments
 
 - [Img Shields][url-shields]
 - [Best-README-Template][url-readme-template]
-- entry
+- [Conventional Commits][url-conventional-commits]
 - entry
 
 <!-- relative links -->
 
 [product-screenshot]: ./images/screenshot.png
-[license]: ./LICENSE
+[README]: ./README.md
+[.gitignore]: ./.gititnore
 
 <!-- project links -->
 
 [url-repo]: https://github_username/repo_name
+[url-owner]: https://github.com/shishifubing
 [url-contributors]: https://github.com/github_username/repo_name/graphs/contributors
 [url-forks]: https://github.com/github_username/repo_name/network/members
 [url-stars]: https://github.com/github_username/repo_name/stargazers
 [url-issues]: https://github.com/github_username/repo_name/issues
 [url-license]: https://github.com/github_username/repo_name/blob/main/LICENSE
+
+[url-repo]: https://github.com/shishifubing/app-desktop-useless-cpp-gui
+[url-license]: https://github.com/shishifubing/app-desktop-useless-cpp-gui/blob/main/LICENSE
+[url-release-latest]: https://github.com/shishifubing/app-desktop-useless-cpp-gui/releases/latest
+[url-sonar]: https://sonarcloud.io/dashboard?id=shishifubing_app-desktop-useless-cpp-gui
 
 <!-- external links -->
 
@@ -194,6 +220,20 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 [shield-issues]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [shield-license]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [shield-linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+<!-- sonar links -->
+
+[url-sonar-vulnerabilities]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=vulnerabilities
+[url-sonar-sqale_index]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=sqale_index
+[url-sonar-security_rating]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=security_rating
+[url-sonar-reliability_rating]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=reliability_rating
+[url-sonar-alert_status]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=alert_status
+[url-sonar-sqale_rating]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=sqale_rating
+[url-sonar-ncloc]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=ncloc
+[url-sonar-duplicated_lines_density]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=duplicated_lines_density
+[url-sonar-coverage]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=coverage
+[url-sonar-code_smells]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=code_smells
+[url-sonar-bugs]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=bugs
 
 <!-- other shield links -->
 

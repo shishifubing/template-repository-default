@@ -8,6 +8,7 @@
 [![Issues][shield-issues]][url-issues]
 [![License][shield-license]][url-license]
 [![LinkedIn][shield-linkedin]][url-linkedin]
+[![Conventional Commits][shield-conventionalcommits]][url-conventionalcommits]
 
 Short summary of the project
 
@@ -159,6 +160,7 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 <!-- external links -->
 
+[url-conventionalcommits]: https://conventionalcommits.org
 [url-readme-template]: https://github.com/othneildrew/Best-README-Template
 [url-shields]: https://shields.io
 [url-golang]: https://go.dev
@@ -195,6 +197,7 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 <!-- other shield links -->
 
+[shield-conventionalcommits]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white&style=for-the-badge
 [shield-golang]: https://img.shields.io/badge/go-black?style=for-the-badge&logo=go&logoColor=#00ADD8
 [shield-javascript]: https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [shield-java]: https://img.shields.io/badge/java-black?style=for-the-badge&logo=oracle&logoColor=F80000

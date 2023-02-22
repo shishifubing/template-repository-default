@@ -8,6 +8,7 @@
 [![Issues][shield-issues]][url-issues]
 [![License][shield-license]][url-license]
 [![Conventional Commits][shield-conventionalcommits]][url-conventionalcommits]
+[![Semver][shield-semver]][url-semver]
 
 [![Bugs][url-sonar-bugs]][url-sonar]
 [![Code Smells][url-sonar-code_smells]][url-sonar]
@@ -147,6 +148,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- external links -->
 
+[url-semver]: https://semver.org
 [url-conventionalcommits]: https://conventionalcommits.org
 [url-readme-template]: https://github.com/othneildrew/Best-README-Template
 [url-shields]: https://shields.io
@@ -198,6 +200,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- other shield links -->
 
+[shield-semver]: https://img.shields.io/badge/semver-2.0.0-%233F4551?style=for-the-badge&logo=Semver&logoColor=white
 [shield-conventionalcommits]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white&style=for-the-badge
 [shield-golang]: https://img.shields.io/badge/go-black?style=for-the-badge&logo=go&logoColor=#00ADD8
 [shield-javascript]: https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E

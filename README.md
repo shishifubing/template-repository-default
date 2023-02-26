@@ -2,27 +2,13 @@
 
 # [`repo_name`][url-repo]
 
-[![Contributors][shield-contributors]][url-contributors]
-[![Forks][shield-forks]][url-forks]
-[![Stargazers][shield-stars]][url-stars]
-[![Issues][shield-issues]][url-issues]
-[![License][shield-license]][url-license]
-[![Conventional Commits][shield-conventionalcommits]][url-conventionalcommits]
-[![Semver][shield-semver]][url-semver]
+Template for [shishifubing][url-owner] repositories
 
-[![Bugs][url-sonar-bugs]][url-sonar]
-[![Code Smells][url-sonar-code_smells]][url-sonar]
+[![License][badge-license]][url-license]
+[![Conventional Commits][badge-conventionalcommits]][url-conventionalcommits]
+
 [![Coverage][url-sonar-coverage]][url-sonar]
-[![Duplicated Lines (%)][url-sonar-duplicated_lines_density]][url-sonar]
 [![Lines of Code][url-sonar-ncloc]][url-sonar]
-[![Maintainability Rating][url-sonar-sqale_rating]][url-sonar]
-[![Quality Gate Status][url-sonar-alert_status]][url-sonar]
-[![Reliability Rating][url-sonar-reliability_rating]][url-sonar]
-[![Security Rating][url-sonar-security_rating]][url-sonar]
-[![Technical Debt][url-sonar-sqale_index]][url-sonar]
-[![Vulnerabilities][url-sonar-vulnerabilities]][url-sonar]
-
-Default template for [shishifubing][url-owner] repositories
 
 </div>
 
@@ -44,41 +30,59 @@ This is boilerplate for my repositories
 - [LICENSE][url-license] - GNU Affero General Public License v3.0
 - [README] - readme
 
+### Some badges
+
+[![Bugs][url-sonar-bugs]][url-sonar]
+[![Code Smells][url-sonar-code_smells]][url-sonar]
+[![Duplicated Lines (%)][url-sonar-duplicated_lines_density]][url-sonar]
+[![Maintainability Rating][url-sonar-sqale_rating]][url-sonar]
+[![Quality Gate Status][url-sonar-alert_status]][url-sonar]
+[![Reliability Rating][url-sonar-reliability_rating]][url-sonar]
+[![Security Rating][url-sonar-security_rating]][url-sonar]
+[![Technical Debt][url-sonar-sqale_index]][url-sonar]
+[![Vulnerabilities][url-sonar-vulnerabilities]][url-sonar]
+
+[![Contributors][badge-contributors]][url-contributors]
+[![Forks][badge-forks]][url-forks]
+[![Stargazers][badge-stars]][url-stars]
+[![Issues][badge-issues]][url-issues]
+[![Semver][badge-semver]][url-semver]
+
 ### Built With
 
 More icons can be found at [url-simpleicons]
 
 Tools:
 
-- [![Golang][shield-golang]][url-golang]
-- [![Javascript][shield-javascript]][url-javascript]
-- [![Java][shield-java]][url-java]
-- [![Python][shield-python]][url-python]
-- [![Terraform][shield-terraform]][url-terraform]
-- [![C++][shield-cpp]][url-cpp]
-- [![Qt][shield-qt]][url-qt]
+- [![Golang][badge-golang]][url-golang]
+- [![Javascript][badge-javascript]][url-javascript]
+- [![Java][badge-java]][url-java]
+- [![Python][badge-python]][url-python]
+- [![Terraform][badge-terraform]][url-terraform]
+- [![C++][badge-cpp]][url-cpp]
+- [![Qt][badge-qt]][url-qt]
 
 Data:
 
-- [![Postgresql][shield-postgresql]][url-postgresql]
-- [![Redis][shield-redis]][url-redis]
+- [![Postgresql][badge-postgresql]][url-postgresql]
+- [![Redis][badge-redis]][url-redis]
 
 Python frameworks:
 
-- [![Django][shield-django]][url-django]
+- [![Django][badge-django]][url-django]
 
 Web stuff:
 
-- [![HTML5][shield-html5]][url-html5]
-- [![CSS3][shield-css3]][url-css3]
-- [![Next][shield-next.js]][url-next]
-- [![React][shield-react.js]][url-react]
-- [![Vue][shield-vue.js]][url-vue]
-- [![Angular][shield-angular.io]][url-angular]
-- [![Svelte][shield-svelte.dev]][url-svelte]
-- [![Laravel][shield-laravel.com]][url-laravel]
-- [![Bootstrap][shield-bootstrap.com]][url-bootstrap]
-- [![JQuery][shield-jquery.com]][url-jquery]
+- [![HTML5][badge-html5]][url-html5]
+- [![CSS3][badge-css3]][url-css3]
+- [![Next][badge-next.js]][url-next]
+- [![React][badge-react.js]][url-react]
+- [![Vue][badge-vue.js]][url-vue]
+- [![Angular][badge-angular.io]][url-angular]
+- [![Svelte][badge-svelte.dev]][url-svelte]
+- [![Laravel][badge-laravel.com]][url-laravel]
+- [![Bootstrap][badge-bootstrap.com]][url-bootstrap]
+- [![JQuery][badge-jquery.com]][url-jquery]
 
 ## Usage
 
@@ -177,12 +181,12 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- project shield links -->
 
-[shield-contributors]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[shield-forks]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[shield-stars]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[shield-issues]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[shield-license]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[shield-linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[badge-contributors]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[badge-forks]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[badge-stars]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[badge-issues]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[badge-license]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[badge-linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 <!-- sonar links -->
 
@@ -198,27 +202,27 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 [url-sonar-code_smells]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=code_smells
 [url-sonar-bugs]: https://sonarcloud.io/api/project_badges/measure?project=shishifubing_app-desktop-useless-cpp-gui&metric=bugs
 
-<!-- other shield links -->
+<!-- other badge links -->
 
-[shield-semver]: https://img.shields.io/badge/semver-2.0.0-%233F4551?style=for-the-badge&logo=Semver&logoColor=white
-[shield-conventionalcommits]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white&style=for-the-badge
-[shield-golang]: https://img.shields.io/badge/go-black?style=for-the-badge&logo=go&logoColor=#00ADD8
-[shield-javascript]: https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[shield-java]: https://img.shields.io/badge/java-black?style=for-the-badge&logo=oracle&logoColor=F80000
-[shield-python]: https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3776AB
-[shield-cpp]: https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C
-[shield-qt]: https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt&logoColor=00599C
-[shield-redis]: https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=DC382D
-[shield-postgresql]: https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=4169E1
-[shield-django]: https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=092E20
-[shield-terraform]: https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform&logoColor=7B42BC
-[shield-html5]: https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=E34F26
-[shield-css3]: https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=1572B6
-[shield-next.js]: https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white
-[shield-react.js]: https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB
-[shield-vue.js]: https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[shield-angular.io]: https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white
-[shield-svelte.dev]: https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[shield-laravel.com]: https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel&logoColor=white
-[shield-bootstrap.com]: https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white
-[shield-jquery.com]: https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=white
+[badge-semver]: https://img.shields.io/badge/semver-2.0.0-%233F4551?style=for-the-badge&logo=Semver&logoColor=white
+[badge-conventionalcommits]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white&style=for-the-badge
+[badge-golang]: https://img.shields.io/badge/go-%233F4551?style=for-the-badge&logo=go&logoColor=#00ADD8
+[badge-javascript]: https://img.shields.io/badge/javascript-%233F4551?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[badge-java]: https://img.shields.io/badge/java-%233F4551?style=for-the-badge&logo=oracle&logoColor=F80000
+[badge-python]: https://img.shields.io/badge/python-%233F4551?style=for-the-badge&logo=python&logoColor=3776AB
+[badge-cpp]: https://img.shields.io/badge/c++-%233F4551?style=for-the-badge&logo=c%2B%2B&logoColor=00599C
+[badge-qt]: https://img.shields.io/badge/qt-%233F4551?style=for-the-badge&logo=qt&logoColor=00599C
+[badge-redis]: https://img.shields.io/badge/redis-%233F4551?style=for-the-badge&logo=redis&logoColor=DC382D
+[badge-postgresql]: https://img.shields.io/badge/postgresql-%233F4551?style=for-the-badge&logo=postgresql&logoColor=4169E1
+[badge-django]: https://img.shields.io/badge/django-%233F4551?style=for-the-badge&logo=django&logoColor=092E20
+[badge-terraform]: https://img.shields.io/badge/terraform-%233F4551?style=for-the-badge&logo=terraform&logoColor=7B42BC
+[badge-html5]: https://img.shields.io/badge/html5-%233F4551?style=for-the-badge&logo=html5&logoColor=E34F26
+[badge-css3]: https://img.shields.io/badge/css3-%233F4551?style=for-the-badge&logo=css3&logoColor=1572B6
+[badge-next.js]: https://img.shields.io/badge/next.js-%233F4551?style=for-the-badge&logo=nextdotjs&logoColor=white
+[badge-react.js]: https://img.shields.io/badge/React-%233F4551?style=for-the-badge&logo=react&logoColor=61DAFB
+[badge-vue.js]: https://img.shields.io/badge/Vue.js-%233F4551?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[badge-angular.io]: https://img.shields.io/badge/Angular-%233F4551?style=for-the-badge&logo=angular&logoColor=white
+[badge-svelte.dev]: https://img.shields.io/badge/Svelte-%233F4551?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[badge-laravel.com]: https://img.shields.io/badge/Laravel-%233F4551?style=for-the-badge&logo=laravel&logoColor=white
+[badge-bootstrap.com]: https://img.shields.io/badge/Bootstrap-%233F4551?style=for-the-badge&logo=bootstrap&logoColor=white
+[badge-jquery.com]: https://img.shields.io/badge/jQuery-%233F4551?style=for-the-badge&logo=jquery&logoColor=white

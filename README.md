@@ -6,7 +6,6 @@ Template for [shishifubing][url-owner] repositories
 
 [![License][badge-license]][url-license]
 [![Conventional Commits][badge-conventionalcommits]][url-conventionalcommits]
-
 [![Coverage][url-sonar-coverage]][url-sonar]
 [![Lines of Code][url-sonar-ncloc]][url-sonar]
 
@@ -181,12 +180,12 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- project shield links -->
 
-[badge-contributors]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[badge-forks]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[badge-stars]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[badge-issues]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[badge-license]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[badge-linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[badge-contributors]: https://img.shields.io/github/contributors/github_username/repo_name.svg
+[badge-forks]: https://img.shields.io/github/forks/github_username/repo_name.svg
+[badge-stars]: https://img.shields.io/github/stars/github_username/repo_name.svg
+[badge-issues]: https://img.shields.io/github/issues/github_username/repo_name.svg
+[badge-license]: https://img.shields.io/github/license/github_username/repo_name.svg
+[badge-linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
 
 <!-- sonar links -->
 
@@ -204,8 +203,8 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- other badge links -->
 
-[badge-semver]: https://img.shields.io/badge/semver-2.0.0-%233F4551?style=for-the-badge&logo=Semver&logoColor=white
-[badge-conventionalcommits]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white&style=for-the-badge
+[badge-semver]: https://img.shields.io/badge/semver-2.0.0-%233F4551?logo=Semver&logoColor=white
+[badge-conventionalcommits]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white
 [badge-golang]: https://img.shields.io/badge/go-%233F4551?style=for-the-badge&logo=go&logoColor=#00ADD8
 [badge-javascript]: https://img.shields.io/badge/javascript-%233F4551?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [badge-java]: https://img.shields.io/badge/java-%233F4551?style=for-the-badge&logo=oracle&logoColor=F80000

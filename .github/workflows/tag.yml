@@ -1,15 +1,9 @@
-name: Tag
+name: tag
 
 on:
   push:
     branches:
       - "main"
-    paths-ignore:
-      - README.md
-      - docs/**
-      - .github/**/*.md
-      - .github/FUNDING.yml
-      - .github/ISSUE_TEMPLATE/**
 
 jobs:
   tag:
